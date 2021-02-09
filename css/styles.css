@@ -1,0 +1,33 @@
+body{
+  background-color: #f3eac2;
+}
+h1{
+  color: #ec524b;
+  font-size: 150px;
+  font-family: cursive;
+  text-align: center;
+  text-shadow: 5px 5px gray;
+}
+h3{
+  background-color: #9ad3bc;
+  color: #f3eac2;
+  font-size: 40px;
+  text-align: center;
+  text-shadow: 3px 1px gray;
+}
+ol{
+  background-color: #9ad3bc;
+}
+li{
+  font-size: 30px;
+  font-family: sans-serif;
+}
+img{
+  height: 200px;
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
